@@ -1,0 +1,1 @@
+No keyboard input. The test values are written in main().

@@ -1,0 +1,10 @@
+Enter ticket number: 101
+Enter vehicle number: TN01AB1111
+
+Original ticket:
+Ticket Number: 101
+Vehicle Number: TN01AB1111
+
+Copied ticket:
+Ticket Number: 101
+Vehicle Number: TN01AB1111

@@ -1,0 +1,6 @@
+Enter registration number: TN01AB1111
+Enter vehicle type: Car
+
+--- Vehicle Details ---
+Registration Number: TN01AB1111
+Vehicle Type: Car

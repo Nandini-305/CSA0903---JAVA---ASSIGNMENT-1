@@ -1,0 +1,10 @@
+Enter vehicle type (car/ebike/van): van
+Enter registration number: TN09XY9999
+Enter entry time (HH:MM): 10:00
+Enter parking hours: 2
+One-day pass? (yes/no): no
+Vehicle parked successfully
+Allocated floor: 0
+Allocated slot: 0
+Parking fee: Rs.80.0
+Slot released successfully

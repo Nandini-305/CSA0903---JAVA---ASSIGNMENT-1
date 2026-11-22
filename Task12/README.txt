@@ -1,0 +1,1 @@
+Modified design challenge: five-floor jagged array with unequal slot counts, EBike flat fee, DeliveryVan double car rate for entry times from 09:00 inclusive to 17:00 exclusive, and one-day pass demonstration. Assumption: one-day pass waives the fee; confirm the intended pass price/discount with faculty. Rates are illustrative.

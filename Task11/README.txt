@@ -1,0 +1,1 @@
+Small integrated parking application. Uses an abstract Vehicle class, subclasses, runtime polymorphism, encapsulated ticket data and HashMap for active tickets. Rates are illustrative: car Rs.20/hour, bike Rs.10/hour, EV Rs.25/hour. Monthly pass makes fee zero. This is a teaching implementation, not a production parking system.

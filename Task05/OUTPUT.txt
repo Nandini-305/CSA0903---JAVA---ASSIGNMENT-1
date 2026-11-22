@@ -1,0 +1,5 @@
+Enter first vehicle number: TN01AB1111
+Enter second vehicle number: TN02CD2222
+Ticket: 101, Vehicle: TN01AB1111
+Ticket: 102, Vehicle: TN02CD2222
+Total tickets created: 2

@@ -1,0 +1,5 @@
+Enter electric vehicle number: TN01EV1234
+Registration Number: TN01EV1234
+Parking Fee: 40.0
+Electric car is charging
+Vehicle supports charging
